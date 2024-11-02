@@ -94,7 +94,7 @@ https://code.visualstudio.com/api/references/theme-color
   "editor.bracketPairColorization.enabled": true,
   "editor.guides.bracketPairs": true,
   "editor.guides.bracketPairsHorizontal": true,
-  "editor.hover.enabled": false,
+  "editor.hover.enabled": true,
 
   "window.zoomLevel": 1,
   "files.autoSave": "afterDelay",
